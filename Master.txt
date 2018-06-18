@@ -2,4 +2,4 @@ Master file starts
 
 
 -----------------------------------------------
-branch1 added this line to master file.
+branch1 added second line to master file.
