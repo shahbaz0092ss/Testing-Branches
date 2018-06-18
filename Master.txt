@@ -1,1 +1,5 @@
 Master file starts
+
+
+-----------------------------------------------
+branch1 added this line to master file.
